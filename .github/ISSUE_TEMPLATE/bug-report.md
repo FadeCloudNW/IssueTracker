@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Template for players to submit bug reports with
+about: Template for players to submit bug reports with. Please search for existing issues first!
 title: ''
 labels: bug
 assignees: ''
